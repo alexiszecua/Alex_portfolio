@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/alexiszecua/Alex_portfolio
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## Project 1: Modeling Volatility with GARCH Class Models
+
+We approach the problem of explaining the conditional volatility of stock returns, with the Autoregressive Conditional Heteroskedasticity (ARCH) model
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
